@@ -1,0 +1,22 @@
+  
+h1 {
+    font-size: 100px;
+    color: darkgray;
+    font-family: helvetica;
+}
+
+form {
+    color: white;
+   
+}
+
+form > input {
+    font-size: 14px;
+}
+
+form > button {
+   
+    font-size: 14px;
+    border-radius: 5px;
+
+}
